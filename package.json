@@ -2,5 +2,8 @@
   "name": "kou-pg-0131",
   "author": "kou-pg-0131 <kou.pg.0131@gmail.com>",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
