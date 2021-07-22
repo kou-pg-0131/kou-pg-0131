@@ -15,7 +15,7 @@ const axios = require('axios');
   lines.push('');
   lines.push(description);
   lines.push('');
-  lines.push('<img src="https://github-readme-stats.vercel.app/api?username=kou-pg-0131&show_icons=true&theme=dark"/>');
+  lines.push('[<img src="https://github-readme-stats.vercel.app/api?username=kou-pg-0131&show_icons=true&theme=dark"/>](https://github.com/kou-pg-0131?tab=repositories)');
   lines.push('');
 
   /*
