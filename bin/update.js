@@ -29,7 +29,7 @@ const axios = require('axios');
   lines.push('');
   for (const social of socials) {
     lines.push(
-      `<a href="${social.href}" target="_blank" rel="noreferrer noopener"><img src="https://kou-pg.com${social.imgSrc}" alt="${social.name}" width="40" height="40"/></a>`
+      `<a href="${social.href}"><img src="https://kou-pg.com${social.imgSrc}" alt="${social.name}" width="40" height="40"/></a>`
     );
   }
 
@@ -43,7 +43,7 @@ const axios = require('axios');
     lines.push('');
     for (const skill of skillGroup.skills) {
       lines.push(
-        `<a href="${skill.href}" target="_blank" rel="noreferrer noopener"><img src="https://kou-pg.com${skill.imgSrc}" alt="${skill.name}" width="40" height="40"/></a>`
+        `<a href="${skill.href}"><img src="https://kou-pg.com${skill.imgSrc}" alt="${skill.name}" width="40" height="40"/></a>`
       );
     }
   }
