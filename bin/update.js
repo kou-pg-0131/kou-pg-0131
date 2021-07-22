@@ -14,6 +14,9 @@ const axios = require('axios');
   lines.push('# Overview');
   lines.push('');
   lines.push(description);
+  lines.push('');
+  lines.push(`<img src="https://github-readme-stats.vercel.app/api?username=kou-pg-0131&show_icons=true&theme=buefy"/>`);
+  lines.push('');
 
   /*
    * Contact
