@@ -3,7 +3,7 @@
 埼玉県在住の23歳。
 のんびり生きています。
 
-<img src="https://github-readme-stats.vercel.app/api?username=kou-pg-0131&show_icons=true&theme=buefy"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kou-pg-0131&show_icons=true&theme=dark"/>
 
 # Contact
 
